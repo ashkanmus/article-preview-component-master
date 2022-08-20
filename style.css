@@ -110,18 +110,16 @@ main{
     gap: 2px;
 }
 
-
 .share-icon{
+    fill: #6E8098;
     background-color: var(--Light-Grayish-Blue);
     border-radius: 100%;
     width: 35px;
+    height: 35px;
     padding: 10px;
+    cursor: pointer;
+    transition: .3s ease;
 }
-.share-icon:hover, .share-icon:active{
-    background-color: var(--Grayish-Blue);
-
-}
-
 
 .share-options{
     display: none;
