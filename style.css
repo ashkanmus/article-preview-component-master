@@ -167,7 +167,7 @@ main{
     .info{padding: 2em;}
     .user-share{position: relative;}
     .description{margin-bottom:40px;}
-    .share-options{ position: absolute; left: -2em;bottom: -2em;width: calc(100% + 4em);  z-index: -1; padding: 2em 3em; justify-content: left; gap: 25px; border-radius: 0 0 .7em .7em;}
+    .share-options{ position: absolute; left: -2em;bottom: -2em;width: calc(100% + 4em);  z-index: -1; padding: 2em 3em; justify-content: left; gap: 25px; border-radius: 0 0 .7em .7em; padding-bottom: 2.3em;}
     .share-options::after{width: 0;height: 0;}
     .share{position: static;z-index: 1;;}
 }
